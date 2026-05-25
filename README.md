@@ -50,11 +50,6 @@ Identify which outlet types, location tiers, and product categories drive the mo
 
 ---
 
-## Dashboard Preview
-
-![Blinkit Dashboard](Blinkit Dashboard-Power Bi.png)
----
-
 ## Business Recommendations
 
 1. **Expand Supermarket Type 1** — highest ROI outlet type; further investment in inventory depth and delivery coverage is justified
