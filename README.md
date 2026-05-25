@@ -40,7 +40,7 @@ Identify which outlet types, location tiers, and product categories drive the mo
 - **Tier 3 locations outperform Tier 1** ($472K vs $336K), signalling untapped potential in smaller markets
 - **2018 was peak expansion year** ($205K); the subsequent decline suggests strategic consolidation
 - **High-size outlets generate 2x the revenue** of Small outlets ($507.90K vs $248.99K)
-- **Fruits & Snack Foods** are top categories at $0.18M each; **Regular fat products** outsell Low Fat ($776K vs $425K)
+- **Fruits and Vegetables & Snack Foods** are top categories at $0.18M each; **Regular fat products** outsell Low Fat ($776K vs $425K)
 
 ---
 
