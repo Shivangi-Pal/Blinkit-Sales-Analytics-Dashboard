@@ -71,6 +71,6 @@ Identify which outlet types, location tiers, and product categories drive the mo
 
 The Blinkit Sales Analytics Dashboard showcases applied business intelligence across the full analytics workflow — from raw data to executive-ready insights. It reflects the core competencies expected in Business Analyst and Product Analyst roles: structured thinking, visual clarity, and data-driven decision support.
 
---
+
 
 
